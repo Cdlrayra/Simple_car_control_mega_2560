@@ -14,7 +14,7 @@ When a specific marker (black strip) is detected, the vehicle can achieve precis
 Equipped with an ultrasonic sensor or infrared distance measurement module, the vehicle measures the distance to obstacles in real time and outputs the distance information via a Bluetooth module to a mobile app.  
 
 ## Hardware:  
-Arduino Mega 2560 development board, DC motors, line-following sensors, ultrasonic sensors, TOF distance sensors, Hall encoders.  
+Arduino Mega 2560 development board, DC motors, line-following sensors, ultrasonic sensors, TOF distance sensors, Hall encoders, Bluetooth module.  
 
 ## Software:  
 Arduino IDE.
