@@ -18,3 +18,9 @@ Arduino Mega 2560 development board, DC motors, line-following sensors, ultrason
 
 ## Software:  
 Arduino IDE.
+
+## Supplementary Note:
+* Contributions to this project are welcome!
+* If you find a bug or want to request a feature, feel free to submit an issue.
+* If you want to contribute your code, please submit your pull request.
+* Star the project if you like it.
